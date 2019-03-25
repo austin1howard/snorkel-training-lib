@@ -1,0 +1,1 @@
+Extracted lib directory from snorkel project (found [here](https://github.com/HazyResearch/snorkel/tree/master/tutorials/workshop/lib)) into a standalone python library.
